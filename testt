@@ -1,0 +1,23 @@
+ 
+
+7.  int main()
+
+8.  {
+
+9.             int linecounter=0;
+
+10.          while (linecounter < 4)
+
+11.          {
+
+24.          linecounter = linecounter +1;
+
+25.          printf("Passed line: %d\n",linecounter);
+
+26.          }
+
+27. ao();
+
+28. printf(“Mission Accomplished”);
+
+29. return 0;      }
